@@ -1,6 +1,6 @@
 {
-  "name": "unsloth/your-model",
+  "name": "unsloth/llama3.2_model",
   "version": "1.0",
-  "files_url": "https://github.com/yourusername/your-model/releases/download/v1.0/your-model.zip",
-  "description": "My custom fine-tuned model from UnsLoth"
+  "files_url": "https://github.com/drao6264/llama3.2_model/releases/download/v1.0/llama3.2_model.zip",
+  "description": "Custom fine-tuned llama 3.2 model from UnsLoth"
 }
